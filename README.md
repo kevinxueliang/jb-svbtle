@@ -9,6 +9,10 @@ You can take a quick look at this demo: <http://blog.kevinlife.org>
 
 ## INSTALL
 
+Just run this under your blog folder:
+
+    rake theme:install git="https://github.com/jekyllbootstrap/theme-twitter.git"
+
 
 ## License
 
