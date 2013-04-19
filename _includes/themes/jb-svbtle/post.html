@@ -1,0 +1,19 @@
+<section>
+
+<header id="begin">
+  <time datetime="{{ page.date }}" id="top_time">{{ page.date | date_to_string }}</time>
+</header>
+
+<article class="post">
+
+<h2 class="entry-title">
+  <a href="{{ page.url }}" class="no-link" title="Permalink to {{ page.title }}" rel="bookmark">{{ page.title }}</a>
+</h2>
+
+<div class="entry-content">
+{{ content }}
+</div><!-- .entry-content -->
+        
+
+</article><!-- #post-## -->
+</section>
