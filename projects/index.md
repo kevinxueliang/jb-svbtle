@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Startup
+title: Projects
 header: Posts By Category
 group: navigation
 ---
