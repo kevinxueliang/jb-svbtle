@@ -1,0 +1,10 @@
+header#begin {
+    border-bottom: 1px solid #E2E2E2
+}
+article.post {
+    border-top:0;
+}
+pre, pre.prettyprint {
+    border: 0!important;
+    padding: 0!important;
+}
