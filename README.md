@@ -11,7 +11,7 @@ You can take a quick look at this demo: <http://blog.kevinlife.org>
 
 Just run this under your blog folder:
 
-    rake theme:install git="https://github.com/jekyllbootstrap/theme-twitter.git"
+    rake theme:install git="https://github.com/kevinxueliang/jb-svbtle.git"
 
 
 ## License
