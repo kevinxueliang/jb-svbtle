@@ -39,3 +39,13 @@ pre, pre.prettyprint {
     border: 0!important;
     padding: 0!important;
 }
+
+/* Account for not having illegal <p> in sidebar <h3>*/
+header#sidebar h3 {
+    color: #4D4D4D;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
